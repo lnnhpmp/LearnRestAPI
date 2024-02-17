@@ -34,6 +34,10 @@ Setup
 4. Switch between branches
 > git checkout  errorhandling
 
+Build
+=====
+1. Run `node index` to connect to the DB
+
 
 Create from scratch
 ===================
